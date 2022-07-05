@@ -1,0 +1,1 @@
+https://docs.microsoft.com/pt-br/archive/msdn-magazine/2017/june/devops-git-internals-for-visual-studio-developers
